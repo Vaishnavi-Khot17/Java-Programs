@@ -1,4 +1,4 @@
-/*Q11. Find Second Largest Element
+/* Find Second Largest Element
 Class: ArraySecondLargest
 Functions:
 void inputArray(int arr[])
@@ -50,3 +50,4 @@ public class ArraySecondLargestCla
   }
  }
          		 
+
