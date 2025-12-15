@@ -1,4 +1,4 @@
- /*4. Check If Array Is Sorted
+ /* Check If Array Is Sorted
  Problem:
 Determine whether an array is sorted in non-decreasing order.
 Example:
@@ -33,4 +33,5 @@ public class CheckArraySorted
 	
    }
   }
+
 	 
